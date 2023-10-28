@@ -1,5 +1,3 @@
-
-
 # Lab4-Quiz-Framework
 #1) Clone the git repository : git clone https://github.com/KevinEHernandez/Lab4-Quiz-Framework.git
 
